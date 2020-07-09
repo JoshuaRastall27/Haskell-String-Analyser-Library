@@ -2,7 +2,7 @@
 Haskell University project
 
 Was created for my Advanced Software Engineering coursework and developed with the Haskell Atom Package (https://atom.io/packages/atom-haskell). 
-Was my first use of Haskell, and functional programming.
+Was my first use of Haskell, and functional programming in general.
 
 The purpose of this application was to insert strings and retrieve analytical data. 
 This includes specific character counts (Vowels, Consonants, Numbers etc)
