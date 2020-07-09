@@ -16,13 +16,15 @@ than a fully fleshed-out program it was created as a set of libraries.
 
 
 LIBRARIES USED
+
+
 Testing:
 
 HUNIT 1.6.0   https://hackage.haskell.org/package/HUnit
 
 QuickCheck 2.14   https://hackage.haskell.org/package/QuickCheck
 
-Prerequisite libraries
+Prerequisite libraries:
 
 Splitmix 0.0.4   https://hackage.haskell.org/package/splitmix
 
